@@ -1,4 +1,5 @@
 # swati-singh
 This is my first Git Repository
-Auther-swati singh
+<br>
+Auther-swati singh <br>
 I love the world
